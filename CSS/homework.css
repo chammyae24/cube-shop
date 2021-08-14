@@ -157,7 +157,7 @@ body{
 	padding: 20px;
 }
 input[type='text'], input[type='email']{
-	width: 30%;
+	width: 70%;
 	border: none;
 	padding: 5px;
 	border-radius: 5px;
@@ -165,7 +165,7 @@ input[type='text'], input[type='email']{
 	margin-bottom: 5px;
 }
 textarea{
-	width: 30%;
+	width: 70%;
 	border: none;
 	padding: 5px;
 	border-radius: 5px;
